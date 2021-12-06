@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website contents
 
-this is a test of getting something additional into git
-
-This is another line
+1. index.html
